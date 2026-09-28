@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,top3_accuracy,ingredient_accuracy
+HOG + Logistic Regression (baseline),0.7111,0.7025,0.8232,0.7665
+ResNet-18 CNN (transfer learning),0.9103,0.9073,0.9499,0.9657

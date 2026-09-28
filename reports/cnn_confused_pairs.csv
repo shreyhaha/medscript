@@ -1,0 +1,16 @@
+true,predicted_as,count,same_ingredient
+Montene,Provair,2,True
+Renova,Dancel,2,False
+Montex,Montair,2,True
+Monas,Provair,2,True
+Sergel,Maxpro,2,True
+Sergel,Esoral,2,True
+Maxima,Nexum,2,True
+Nexcap,Opton,2,True
+Montene,Montair,2,True
+Montex,Provair,1,True
+Napa,Disopan,1,False
+Napa,Montair,1,False
+Napa Extend,Azithrocin,1,False
+Napa Extend,Maxpro,1,False
+Opton,Nexum,1,True

@@ -1,0 +1,4 @@
+split,images,duplicates_of_train
+train,3120,0
+val,780,27
+test,780,22

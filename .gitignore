@@ -1,0 +1,9 @@
+# datasets are large - download them from Kaggle (see README)
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+INTERVIEW_NOTES.md
+INTERVIEW_NOTES.md

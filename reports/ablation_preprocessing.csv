@@ -1,0 +1,5 @@
+preprocessing,val_accuracy
+only resize (no cleaning),0.676
+textbook: median + hard Otsu,0.7198
+no median + hard Otsu,0.7716
+FINAL: no median + dilated Otsu,0.7995
